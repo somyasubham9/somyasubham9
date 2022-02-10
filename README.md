@@ -44,17 +44,19 @@
 
 ## My Github Statistics 📈
 
-<div align="">
+ <div align="center"> 
+     <a href="">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=somyasubham9&&show_icons=true&theme=synthwave" />
+    </a>
+    <a href="">
+      <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somyasubham9&theme=synthwave&hide=glsl,python"/>
+    </a>
+</div
 
-<p><img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs?username=somyasubham9&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="somyasubham9" /></p>
 
-<p>&nbsp;<img align="right" height="150px"   src="https://github-readme-stats.vercel.app/api?username=somyasubham9&show_icons=true&theme=synthwave&locale=en" alt="somyasubham9" /></p>
-</div>
-
-
-</br></br></br></br></br></br></br>
-
-
+      
+ </br>
+ 
 ---
 
 <div align="right" style="color:white">
