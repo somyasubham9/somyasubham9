@@ -48,7 +48,7 @@
 
 <p><img align="left" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs?username=somyasubham9&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="somyasubham9" /></p>
 
-<p>&nbsp;<img align="right" height="160px"   src="https://github-readme-stats.vercel.app/api?username=somyasubham9&show_icons=true&theme=synthwave&locale=en" alt="somyasubham9" /></p>
+<p>&nbsp;<img align="right" height="140px"   src="https://github-readme-stats.vercel.app/api?username=somyasubham9&show_icons=true&theme=synthwave&locale=en" alt="somyasubham9" /></p>
 </div>
 
 
