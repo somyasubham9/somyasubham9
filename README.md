@@ -6,8 +6,6 @@
 - 🔭 I’m currently working on **MERN Stack technologies like Javascript,** 
       <br> **NodeJs, React, Express, MongoDB etc.**
 
-- 🌱 I’m currently learning about **MERN Stack development.**
-
 - 📫 How to reach me **workforssd@gmail.comm**
 
 - 😄 Pronouns: **He/His**
