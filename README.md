@@ -3,7 +3,7 @@
 <h3 align="left">Computer Engineering Undergrad</h3>
 
 
-- 🔭 I’m currently working on **MERN Stack technologies like Javascript,** 
+- 🔭 I’m a **MERN Stack Developer** 
       <br> **NodeJs, React, Express, MongoDB etc.**
 
 - 📫 How to reach me **workforssd@gmail.com**
